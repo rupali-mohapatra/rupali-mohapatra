@@ -4,9 +4,9 @@
 <img align="right" alt="coding" src= "https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupali-mohapatra&label=Profile%20views&color=0e75b6&style=flat" alt="rupali-mohapatra" /> </p>
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **React.js with Typescript**
 
-- 💬 Ask me about **HTML,CSS,Javascript,Nodejs**
+- 💬 Ask me about **HTML,CSS,Javascript,Node.js,React.js,Typescript**
 
 - 📫 How to reach me **rupali.mohapatra51@gmail.com**
 
