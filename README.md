@@ -6,12 +6,17 @@
 
 🌱 What I’m Learning:
 
-*📚 Supervised & Unsupervised Machine Learning Models
-*📚 Advanced Data Analysis Techniques (Text, Audio, GIS Data, etc.)
-*📚 Oracle SQL & OLAP Process (MS Access & Excel)
-*📚 Effective Prompt Generation
-*📚 NLP and Large Language Models
-*📚 Data-driven Decision Making
+📚 Supervised & Unsupervised Machine Learning Models.
+
+📚 Advanced Data Analysis Techniques (Text, Audio, GIS Data, etc.).
+
+📚 Oracle SQL & OLAP Process (MS Access & Excel).
+
+📚 Effective Prompt Generation.
+
+📚 NLP and Large Language Models.
+
+📚 Data-driven Decision Making. 
 
 🥅 2025 Goals: Explore more on Machine learning, Deep learning, NLP, Time Series Analysis, AI agents, AI Tools etc.
 
