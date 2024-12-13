@@ -22,7 +22,4 @@
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rupalimohapatra/)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@rupalimohapatra)
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rupali-mohapatra&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+![GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
