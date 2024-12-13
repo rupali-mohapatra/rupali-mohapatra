@@ -24,3 +24,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rupalimohapatra/)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@rupalimohapatra)
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupali-mohapatra&layout=compact&theme=radical" alt="Most Used Languages"/>
+</p>
+<p align="center"> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python"/> <img src="https://img.shields.io/badge/-R%20Studio-276DC3?logo=rstudio&logoColor=white&style=flat-square" alt="R Studio"/> <img src="https://img.shields.io/badge/-Oracle%20SQL-F80000?logo=oracle&logoColor=white&style=flat-square" alt="Oracle SQL"/> <img src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=flat-square" alt="Jupyter Notebook"/> <img src="https://img.shields.io/badge/-Hugging%20Face-FEBF00?logo=huggingface&logoColor=black&style=flat-square" alt="Hugging Face"/> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" alt="TensorFlow"/> <img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square" alt="scikit-learn"/> </p>
