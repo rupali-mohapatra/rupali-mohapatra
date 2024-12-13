@@ -18,7 +18,7 @@
 ### Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=oraclesql&logoColor=white&style=flat)
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rupalimohapatra/)
