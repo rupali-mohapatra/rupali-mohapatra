@@ -9,6 +9,7 @@
 📚 Oracle SQL & OLAP process(MS Access & Excel)
 📚 Effective Prompt generation
 📚 NLP and Large Language Models
+📚 Data-driven decision making
 
 🥅 2025 Goals: Explore more on Machine learning, Deep learning, NLP, Time Series Analysis, AI agents, AI Tools etc.
 
@@ -22,4 +23,4 @@
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rupalimohapatra/)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@rupalimohapatra)
-![GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+
