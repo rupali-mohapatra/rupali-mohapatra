@@ -1,4 +1,8 @@
-Hi! 
-I'm currently pursuing my Master's in Data Science at Dalarna University, where I'm learning about data analysis, machine learning, and AI-driven solutions. 
-I am passionate about leveraging data to solve real-world problems, I enjoy exploring new technologies, working on data-centric projects, and sharing insights from my data science journey.
+👋 Hi, I'm Rupali!  
+💻 Data Scientist | 🚀 ML Enthusiast | 📈 Data Viz Fanatic
+### Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
+
 
