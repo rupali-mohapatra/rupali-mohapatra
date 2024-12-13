@@ -2,14 +2,16 @@
 💻 Aspiring Data Scientist | 🚀 ML Enthusiast | 📈 Data Viz Fanatic
 
 🌟 About Me
-🎓 Currently Pursuing: Master's in Data Science at Dalarna University, Sweden.
+🎓 Currently Pursuing: Master's in Data Science at Dalarna University, Sweden
+
 🌱 What I’m Learning:
-📚 Supervised & Unsupervised Machine Learning Models.
-📚 Advanced Data Analysis Techniques (Text, Audio, GIS Data, etc.).
-📚 Oracle SQL & OLAP process(MS Access & Excel).
-📚 Effective Prompt generation.
-📚 NLP and Large Language Models.
-📚 Data-driven decision making.
+
+📚 Supervised & Unsupervised Machine Learning Models
+📚 Advanced Data Analysis Techniques (Text, Audio, GIS Data, etc.)
+📚 Oracle SQL & OLAP Process (MS Access & Excel)
+📚 Effective Prompt Generation
+📚 NLP and Large Language Models
+📚 Data-driven Decision Making
 
 🥅 2025 Goals: Explore more on Machine learning, Deep learning, NLP, Time Series Analysis, AI agents, AI Tools etc.
 
