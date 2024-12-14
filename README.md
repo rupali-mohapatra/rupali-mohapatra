@@ -1,7 +1,7 @@
-👋 Hi, I'm Rupali!  
-💻 Aspiring Data Scientist | 🚀 ML Enthusiast | 📈 Data Viz Fanatic
+### 👋 Hi, I'm Rupali!  
+💻 Aspiring Data Scientist | 🚀 ML & GEN AI Enthusiast 
 
-🌟 About Me
+### 🌟 About Me:
 🎓 Currently Pursuing: Master's in Data Science at Dalarna University, Sweden
 
 🌱 What I’m Learning:
